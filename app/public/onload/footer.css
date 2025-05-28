@@ -1,0 +1,19 @@
+.footer{
+    display:flex;
+    align-items: center;
+    background-color: rgba(52, 52, 184, 0.7);
+    height:80px;
+    justify-content: space-between;
+    padding-left:3vw;
+    padding-right:3vw;
+}
+
+.githubimg{
+    width:48px;
+    height:auto;
+}
+.footer .logoname{
+    position: absolute;
+    text-align: center;
+    width:100vw;
+}

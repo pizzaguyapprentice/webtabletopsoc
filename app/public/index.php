@@ -5,7 +5,17 @@
 ?>
 <body>
     
+
+
+
+
+
+    <?php
+    include_once('./onload/footer.php');
+    ?>
+    
     <script src="./onload/navbaranim.js"></script>
+    
 </body>
 
 </html>

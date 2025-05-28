@@ -34,7 +34,6 @@
                 <button class="imagebuttons"><img src="img/instagramicon.svg" class="instagramimg"></button>
             </div>
         </div>
-
     </div>
     
 
