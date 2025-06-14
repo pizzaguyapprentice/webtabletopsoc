@@ -1,7 +1,8 @@
 @font-face{
-    font-family: AHL;
-    src:url(AtkinsonHyperlegibleNext-Regular.otf);
+    font-family: "AHL";
+    src:url(/app/public/fonts/AtkinsonHyperlegibleNext-Regular.otf);
 }
+
 
 *{
     margin:0;
@@ -47,6 +48,17 @@
     width:32px;
     height:auto;
     filter: invert(1);
+}
+
+.galleryimg{
+    width:32px;
+    height:auto;
+    filter: invert(0);
+}
+.eventimg{
+    width:32px;
+    height:auto;
+    filter: invert(0);
 }
 
 .discordimg{
@@ -97,6 +109,20 @@
     box-shadow: none;
 }
 
+.gallerybutton{
+    border-radius: 12px;
+    width:48px;
+    height:48px;
+    box-shadow: none;
+}
+
+.eventbutton{
+    border-radius: 12px;
+    width:48px;
+    height:48px;
+    box-shadow: none;
+}
+
 .menu button{
     padding: 0;
     border: none;
@@ -105,6 +131,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
+    background-color:rgba(52, 52, 184, 0.5);
 }
 .menu button:hover{
     background-color:rgba(52, 52, 184, 1);

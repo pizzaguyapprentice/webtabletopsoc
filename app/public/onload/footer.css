@@ -1,3 +1,8 @@
+@font-face{
+    font-family: "OE";
+    src:url(/app/public/fonts/OldeEnglish.ttf);
+}
+
 .footer{
     display:flex;
     align-items: center;
@@ -16,4 +21,8 @@
     position: absolute;
     text-align: center;
     width:100vw;
+}
+
+.logotitle{
+    font-family: "OE" !important;
 }

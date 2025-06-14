@@ -15,6 +15,17 @@
                 <button class="searchbarbutton"><img src="img/searchicon.svg" class="searchimg"></button>
             </div>
 
+            <!-- Gallery -->
+            <div class="menu-item">
+                <button class="gallerybutton"><img src="img/galleryicon.svg" class="galleryimg"></button>
+            </div>
+
+            <!-- Events -->
+
+             <div class="menu-item">
+                <button class="eventbutton"><img src="img/eventicon.svg" class="eventimg"></button>
+            </div>
+
         </div>
 
         <div class="right">

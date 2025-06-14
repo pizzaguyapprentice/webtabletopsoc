@@ -6,7 +6,7 @@
     </div>
 
     <div class="logoname">
-        <h1>TUD Tabletop Society</h1>
+        <h1 class="logotitle">TUD Tabletop Society</h1>
     </div>
 
     <div class="github">
