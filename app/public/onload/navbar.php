@@ -12,7 +12,7 @@
             
             <!-- Searchbar -->
             <div class="menu-item">
-                <button class="searchbarbutton"><img src="img/searchicon.svg" class="searchimg"></button>
+                <button class="searchbarbutton"><img src="./img/searchicon.svg" class="searchimg"></button>
             </div>
 
             <!-- Gallery -->
