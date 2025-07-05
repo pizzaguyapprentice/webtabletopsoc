@@ -7,19 +7,65 @@
 <body>
     
     <div class="main">
+
+        <div class="calendar">
+
+            <div class="scheduletitle">
+                <h2>Our Weekly Schedule</h2>
+            </div>
+
+            <div>
+                <table class="schedule">
+                    <tr>
+                        <td>Monday</td><td>Tuesday</td><td>Wednesday</td>
+                        <td>Thursday</td><td>Friday</td>
+                    </tr>
+
+                    <tr>
+                        <td class="activity green">Magic Monday</td>
+                        <td class="empty">---</td>
+                        <td class="activity blue">Have a Gander</td>
+                        <td class="empty">---</td>
+                        <td class="activity red">We Are Board!</td>
+                    </tr>
+                    <tr>
+                        <td class="activity blue">AG 114</td>
+                        <td class="empty">---</td>
+                        <td class="activity green">AG 114</td>
+                        <td class="empty">---</td>
+                        <td class="activity red">AG 114</td>
+                    </tr>
+                    <tr>
+                        <td class="activity blue">15:00 - 17:00</td>
+                        <td class="empty">---</td>
+                        <td class="activity green">15:00 - 17:00</td>
+                        <td class="empty">---</td>
+                        <td class="activity red">15:00 - 17:00</td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="scheduletext">
+                <p>
+                    Here you can find our (usual) weekly schedule. Make sure to check on the portal or on discord for any relevant information or updates.
+                </p>
+            </div>
+            
+        </div>
+        
         <div class="banner">
 
-            <div class="calendar">
-                <iframe src="https://societies.tudublin.ie/events/tabletopsociety"></iframe>
-            </div>
+            
 
             <div class="krakenanimation">
                 <img src="./img/kraken.svg" class="krakenimg">
             </div>
 
-            <div class="games">
+            
+        </div>
 
-            </div>
+        <div class="games">
+
         </div>
     </div>
 
@@ -71,7 +117,7 @@
             <p class="name"><h3>???</h3></p>
             <p class="at">@???</p>
             <img src="./img/unknown.jpg">
-            <p class="description">1st Year Rep</p>
+            <p class="description">1st Year Rep</p></p>
         </div>
     </div>
 

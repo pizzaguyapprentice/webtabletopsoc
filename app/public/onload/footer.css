@@ -1,7 +1,22 @@
 @font-face{
     font-family: 'OE';
-    src:url(../fonts/OldeEnglish.ttf);
+    src:url(../fonts/OldeEnglish.ttf) format('truetype');
 }
+@font-face{
+    font-family: 'RS';
+    src:url(../fonts/Rockstar-ExtraBold.otf) format('truetype');
+}
+
+@font-face{
+    font-family: 'OD';
+    src:url(../fonts/One_dance.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'S34';
+    src:url(../fonts/sector_034.ttf) format('truetype');
+}
+
 
 .footer{
     display:flex;
@@ -13,18 +28,8 @@
     padding-right:3vw;
     width:auto;
 }
+.footer .letter{
+    font-family: "OD" !important;
+    font-size: 6rem !important;
 
-.githubimg{
-    width:48px;
-    height:auto;
-}
-.footer .logoname{
-    position: absolute;
-    text-align: center;
-    width:97vw;
-}
-
-.logotitle{
-    font-family: "OE" !important;
-    font-size: 3rem;
 }
